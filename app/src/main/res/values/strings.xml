@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wellthon</string>
+    <string name="com_auth0_client_id">PHn6IA36pSvvDL1sIVlIMkZ9kfX4y4H6</string>
+    <string name="com_auth0_domain">dev-f-3f6tuc.auth0.com</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+</resources>
